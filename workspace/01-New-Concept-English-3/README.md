@@ -1,5 +1,6 @@
 - [New-Concept-English-3](#new-concept-english-3)
   - [target](#target)
+  - [track](#track)
   - [havest](#havest)
 
 # New-Concept-English-3
@@ -11,6 +12,14 @@
 current: 2/10/2022
 
 预计: 2/18/2022
+
+## track
+
+| time      | task         | flag     |
+| --------- | ------------ | -------- |
+| 2/10/2022 | lesson 01-12 | Complete |
+| 2/11/2022 | lesson 13-17 | warn     |
+| 2/12/2022 | lesson 18-33 | warn     |
 
 ## havest
 
@@ -39,5 +48,7 @@ special preparation.
 1. 不要思考与之无关的东西, 无论它是多么重要. 把注意力放在语句的节奏上, 想想自己会怎么
    表达英语语句里面的意思, 自己会强调哪部分, 自己怎么组织起整体的意思. 思考语句里面的场景, 把自己带入进去
 2. 试图建立场景表达自己的想法, 比如看到"猫有九条命"的实验. I don't like it, because
-   the experiment is a little cruel. But the reason why cats can protect 
+   the experiment is a little cruel. But the reason why cats can protect
    themselves when falling from high buildings is a little fascinating indeed.
+3. 自己还是无法控制自己, 会偷懒. 设计这样的目标并不是完全为了目标 "It isn't regard as
+   an end in itself". 其实, 追求的是每天的状态和"手感".
