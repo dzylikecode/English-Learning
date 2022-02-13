@@ -78,3 +78,25 @@
   > to dinner.
   >
   > > That's so vivid.
+- Lesson 35 Justice was done
+  > There are rare instances when justice almost ceases to be an abstract concept.
+  > Reward or punishment are meted out quite independent of hunman interference.
+  > At such times, justice acts like a living force. When we use a phrase like
+  > 'it serves him right', we are, in part, admitting that a certain set of
+  > circumstances has enabled justice to act of its own accord.
+- Lesson 36 The Westhaven Express
+  > The truth is that when mistakes occur, they are more likely to be ours than
+  > theirs.
+- Lesson 41 [illusion of pastoral peace](http://edu.szmdata.com/NCE/3/Lesson%2041.htm)
+- Lesson 42 Modern cavemen
+  > Cave exploration, or pot-holing, as it has come to be known, is a relatively
+  > new sport. Perhaps it is the desire for solitude or the chance of making an
+  > unexpected discovery that lures people down to the depths of the earth. It is
+  > impossible to give a satisfactory explanation for a pot-holer's motives. For
+  > him, caves have the same peculiar fascination which high mountains have for
+  > the climber. They arouse instincts which can only be dimly understood.
+  >
+  > The cave might never have been discovered had not the entrance been spotted
+  > by the distinguished French pot-holer, Berger.
+- Lesson 44 [Speed and comfort](http://edu.szmdata.com/NCE/3/Lesson%2044.html)
+- Lesson 45 [The power of the press](http://edu.szmdata.com/NCE/3/Lesson%2045.html)

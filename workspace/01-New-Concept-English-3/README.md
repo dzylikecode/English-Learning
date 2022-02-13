@@ -17,9 +17,10 @@ current: 2/10/2022
 
 | time      | task         | flag     |
 | --------- | ------------ | -------- |
-| 2/10/2022 | lesson 01-12 | Complete |
+| 2/10/2022 | lesson 01-12 | complete |
 | 2/11/2022 | lesson 13-17 | warn     |
 | 2/12/2022 | lesson 18-33 | warn     |
+| 2/13/2022 | lesson 34-48 | complete |
 
 ## havest
 
