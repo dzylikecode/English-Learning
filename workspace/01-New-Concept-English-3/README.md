@@ -5,6 +5,8 @@
 
 # New-Concept-English-3
 
+BOOK: [link](http://edu.szmdata.com/NCE/contents.html)
+
 ## target
 
 我的要求是开学前阅读完整本书, 对书有大致的了解
@@ -21,6 +23,7 @@ current: 2/10/2022
 | 2/11/2022 | lesson 13-17 | warn     |
 | 2/12/2022 | lesson 18-33 | warn     |
 | 2/13/2022 | lesson 34-48 | complete |
+| 2/14/2022 | lesson 49-60 | complete |
 
 ## havest
 
@@ -53,3 +56,4 @@ special preparation.
    themselves when falling from high buildings is a little fascinating indeed.
 3. 自己还是无法控制自己, 会偷懒. 设计这样的目标并不是完全为了目标 "It isn't regard as
    an end in itself". 其实, 追求的是每天的状态和"手感".
+4. 让文章淌过心灵, 无需带走任何

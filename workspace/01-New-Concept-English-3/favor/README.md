@@ -100,3 +100,8 @@
   > by the distinguished French pot-holer, Berger.
 - Lesson 44 [Speed and comfort](http://edu.szmdata.com/NCE/3/Lesson%2044.html)
 - Lesson 45 [The power of the press](http://edu.szmdata.com/NCE/3/Lesson%2045.html)
+- Lesson 50 [New Year Resolution](http://edu.szmdata.com/NCE/3/Lesson%2050.html)
+  > Perhaps it will solve my problem, but I just haven't had time to read it.
+  >
+  > > That's me. I can't resist the temptation.
+- Lesson 59 [Collecting](http://edu.szmdata.com/NCE/3/Lesson%2059.html)
