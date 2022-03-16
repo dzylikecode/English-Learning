@@ -2,6 +2,7 @@
   - [动机](#动机)
   - [计划](#计划)
   - [感想](#感想)
+  - [参考](#参考)
 
 # English
 
@@ -23,3 +24,14 @@
 ## 感想
 
 1. 学习英语应该和自己的背景结合起来, 利用自己的背景来建立优势. 例如编程`(#TODO)`
+2. 虽然近来看了不少英语, 但是过于随性了. 显得比较疲惫. 我的目的是希望英语可以成为日常,
+   但是缺失可有可无的态度, 导致没有达到大量训练的目的. 明明计划听一下英语听力, 却换成了
+   听歌.
+   > 书不是最最最关键的, 不要被书的形式束缚.(我打算回顾大一的教材, 担心自己过于纠结其中,
+   > 有很多资源可供自己享受.)
+
+## 参考
+
+- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+  = [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)

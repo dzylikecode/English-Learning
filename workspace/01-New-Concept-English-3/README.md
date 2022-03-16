@@ -1,6 +1,7 @@
 - [New-Concept-English-3](#new-concept-english-3)
   - [target](#target)
   - [track](#track)
+  - [content](#content)
   - [havest](#havest)
 
 # New-Concept-English-3
@@ -13,7 +14,7 @@ BOOK: [link](http://edu.szmdata.com/NCE/contents.html)
 
 current: 2/10/2022
 
-预计: 2/18/2022
+预计: 2/18/2022 `done`
 
 ## track
 
@@ -24,6 +25,10 @@ current: 2/10/2022
 | 2/12/2022 | lesson 18-33 | warn     |
 | 2/13/2022 | lesson 34-48 | complete |
 | 2/14/2022 | lesson 49-60 | complete |
+
+## content
+
+[what impresses me](favor/README.md)
 
 ## havest
 
